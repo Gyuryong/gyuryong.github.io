@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Gyuryong&#39;s Blog</title>
   
-  
+  <subtitle>Do it youself!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gyuryong.github.io/"/>
